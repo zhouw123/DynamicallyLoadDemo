@@ -24,7 +24,7 @@ namespace example
         {
             _entryPoint = mi;
         }
-
+  
         MethodInfo? _entryPoint;
     }
 

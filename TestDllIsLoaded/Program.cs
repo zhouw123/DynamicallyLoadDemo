@@ -8,7 +8,9 @@ using TestDllIsLoaded;
 namespace test
 {
     class Test
-    {
+    { 
+         
+
     }
 
     class Program
